@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Global installation (Windows)
+### Global installation (Windows)
 
 Installing `swift-req` Globally
 To use swift-req as a command in the terminal, you can install it globally. The following steps allow you to run swift-req from any location in your terminal without needing to specify python.
